@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Keras**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yolkmaster.me/portfolio/)
+- 👨‍💻 My website [Yolkmaster](https://yolkmaster.me/)
 
 - 📫 How to reach me **ajaywolverine123@gmail.com**
 
