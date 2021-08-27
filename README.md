@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajrocks321&ring=1DA1F2&fire=1DA1F2&currStreakLabel=1DA1F2" alt="ajrocks321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajrocks321&show_icons=true&locale=en" alt="ajrocks321" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajrocks321&show_icons=true&locale=en" alt="ajrocks321" /> </p>
 
 <br>
 
