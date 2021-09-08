@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ajay Mehra</h1>
 <h3 align="left">A Reputed Pirate of Devil's Triangle</h3>
 
-- <img src="https://image.flaticon.com/icons/png/512/1815/1815995.png" alt="Rubics cube" width="40" height="40"/> <b>1</b> Minute <b>4.16 </b> Seconds<br>
+- <img src="https://image.flaticon.com/icons/png/512/1815/1815995.png" alt="Rubics cube" width="40" height="40"/> <b>1</b> Minute <b>1.53 </b> Seconds<br>
 
 - <img src="https://image.flaticon.com/icons/png/512/2532/2532576.png" alt="Mirror cube" width="40" height="40"/> <b>2</b> Minute <b>27.45</b> Seconds
 
@@ -19,7 +19,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/ajrocks321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajrocks321" height="30" width="40" /></a>
-<a href="https://twitter.com/ajaymeh24472146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaymeh24472146" height="30" width="40" /></a>
+<a href="https://twitter.com/AjayMehra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaymeh24472146" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-mehra-505570209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-mehra-505570209" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajaymehrarocksb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaymehrarocksb1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajrocks321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajrocks321" height="30" width="40" /></a>
@@ -52,5 +52,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <p><h2 align="center">Thanks for visiting</h2></p>
 
-<p align="center"> <a href="https://twitter.com/ajaymeh24472146" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymeh24472146?logo=twitter&style=for-the-badge" alt="ajaymeh24472146" /></a></p>
+<p align="center"> <a href="https://twitter.com/AjayMehra_" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymeh24472146?logo=twitter&style=for-the-badge" alt="ajaymeh24472146" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajrocks321&label=Profile%20views&color=0e75b6&style=flat" alt="ajrocks321" /> </p>
