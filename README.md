@@ -52,5 +52,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <p><h2 align="center">Thanks for visiting</h2></p>
 
-<p align="center"> <a href="https://twitter.com/AjayMehra_" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymeh24472146?logo=twitter&style=for-the-badge" alt="ajaymeh24472146" /></a></p>
+<p align="center"> <a href="https://twitter.com/AjayMehra_" target="blank"><img src="https://img.shields.io/twitter/follow/AjayMehra_?logo=twitter&style=for-the-badge" alt="AjayMehra_" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajrocks321&label=Profile%20views&color=0e75b6&style=flat" alt="ajrocks321" /> </p>
