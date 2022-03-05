@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ajay Mehra</h1>
 <h3 align="left">A Reputed Pirate of Devil's Triangle</h3>
 
-- <img src="https://image.flaticon.com/icons/png/512/1815/1815995.png" alt="Rubics cube" width="40" height="40"/> <b>1</b> Minute <b>01.53 </b> Seconds<br>
+- <img src="https://image.flaticon.com/icons/png/512/1815/1815995.png" alt="Rubics cube" width="40" height="40"/>  <b>51.97 </b> Seconds<br>
 
-- <img src="https://image.flaticon.com/icons/png/512/2532/2532576.png" alt="Mirror cube" width="40" height="40"/> <b>2</b> Minute <b>27.45</b> Seconds
+- <img src="https://cdn-icons-png.flaticon.com/512/522/522154.png" alt="Mirror cube" width="40" height="40"/> <b>2</b> Minute <b>27.45</b> Seconds
 
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=AJRocks321&theme=react-dark&hide_border=true&area=true" alt="ajrocks321" /></p>
