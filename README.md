@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ajay</h1>
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ajay</h1>
 <h3 align="left">A Reputed Pirate of Devil's Triangle</h3>
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2532/2532683.png" alt="Rubics cube" width="40" height="40"/>  <b>51.97 </b> Seconds<br>
