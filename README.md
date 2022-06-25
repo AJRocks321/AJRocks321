@@ -11,15 +11,6 @@
 
 
 <br>
-<h5> Fun fact: Here is How to Solve the world's oldest question with a single line of Javascript</h5>
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
