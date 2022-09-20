@@ -5,6 +5,7 @@
 
 - <img src="https://cdn-icons-png.flaticon.com/512/522/522154.png" alt="Mirror cube" width="40" height="40"/> <b>2</b> Minute <b>27.45</b> Seconds
 
+<img src="https://www.chess.com/share/user/thumbmonster" alt="Chess stats" width="480" height="252" />
 
 <!--<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=AJRocks321&theme=react-dark&hide_border=true&area=true" alt="ajrocks321" /></p>-->
 
